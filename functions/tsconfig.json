@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "lib": ["es2017"],
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "allowJs": true,
+    "experimentalDecorators": true
+  },
+  "compileOnSave": true,
+  "include": ["src"]
+}
